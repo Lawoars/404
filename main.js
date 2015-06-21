@@ -2,10 +2,10 @@ var red = [0, 100, 63];
 var orange = [40, 100, 60];
 var green = [75, 100, 40];
 var blue = [196, 77, 55];
-var purple = [250, 20, 10];
+var purple = [200, 20, 10];
 
 var myName = "Error";
-var letterColors=[purple];
+var letterColors=[purple, blue];
 if (1<10) {
     bubbleShape="circle";
     }

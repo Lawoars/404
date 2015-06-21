@@ -6,7 +6,7 @@ var purple = [250, 20, 10];
 
 var myName = "Error";
 var letterColors=[purple];
-if (11<10) {
+if (1<10) {
     bubbleShape="circle";
     }
 else {
