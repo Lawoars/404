@@ -5,7 +5,7 @@ var blue = [196, 77, 55];
 var purple = [200, 20, 10];
 
 var myName = "Error";
-var letterColors=[purple, blue];
+var letterColors=[purple, blue, green];
 if (1<10) {
     bubbleShape="circle";
     }
